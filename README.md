@@ -35,4 +35,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 # Expense-Tracker-React
-This app
+This app is can be used to track in and out going expenses for anyone and saves the data in its state for so it can be picked up whenever.
+
+# Features 
+can add transactions
+delete transactions 
+
+# What I learned
+building this helped with with my react and how to create each component and pass data through them and understand global state
+It also helped me better understand more functionality using the useContext, useState and useReducer APIs.
+
